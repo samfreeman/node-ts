@@ -2,7 +2,7 @@
     "compileOnSave": true,
     "compilerOptions": {
         "module": "CommonJS",
-        "target": "es5",
+        "target": "es6",
         "noImplicitAny": true,
         "experimentalDecorators": true,
         "removeComments": true,
