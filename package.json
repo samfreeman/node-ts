@@ -11,7 +11,7 @@
   "scripts": {
     "test": "jest",
     "cover": "jest --coverage",
-    "build": "tsx"
+    "build": "tsc"
   },
   "dependencies": {
     "jsdom": "^15.2.1",
