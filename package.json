@@ -15,7 +15,6 @@
   },
   "dependencies": {
     "jsdom": "^15.2.1",
-    "readline-sync": "^1.4.9",
     "typescript": "^3.7.2"
   },
   "devDependencies": {
