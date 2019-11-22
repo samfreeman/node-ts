@@ -17,9 +17,6 @@
         "node_modules",
         "**/*.spec.ts",
         "**/*.test.ts",
-        "src/components",
-        "src/create-okations-template",
-        "src/create-firemob-template",
-        "src/create-okations.ts"
+        "src/coverage"
     ]
 }
